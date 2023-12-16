@@ -30,4 +30,4 @@ jobs:
         python -m pip install ruff
     - name: Lint with ruff
       run: |
-        ruff
+        ruff cappi
