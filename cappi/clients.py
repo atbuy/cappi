@@ -1,7 +1,5 @@
 """Defines both the sync and async client."""
 
-import asyncio
-
 
 __all__ = (
     "Client",
