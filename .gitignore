@@ -2,5 +2,6 @@
 .python-version
 
 # Python
-.py[cod]
+*.py[cod]
+dist/
 

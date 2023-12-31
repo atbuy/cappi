@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cappi"
-version = "0.1.0"
+version = "0.2.0"
 description = "Python library for building clients for APIs"
 authors = ["atbuy <filip1253@gmail.com>"]
 license = "MIT"
@@ -8,6 +8,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
+aiohttp = "^3.9.0"
 
 
 [build-system]
